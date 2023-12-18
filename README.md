@@ -1,2 +1,2 @@
-# odin-landing
-The Odin Project Project
+The Odin Project - Project: Landing Page - Foundations Course
+
